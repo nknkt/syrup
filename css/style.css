@@ -1,0 +1,5 @@
+@import url(/assets/css/syrup.css);
+
+.hoge {
+    color: var(--red);
+}
