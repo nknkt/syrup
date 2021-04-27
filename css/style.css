@@ -1,5 +1,33 @@
 @import url(/assets/css/syrup.css);
 
-.hoge {
-    color: var(--red);
+.Bx1,
+.Bx2,
+.Bx3,
+.Bx4 {
+	float: left;
+	width: 200px;
+	height: 200px;
+	margin: 10px;
+	padding: 10px;
+	border: 1px solid var(--red);
+}
+
+.Bx1 {
+	color: var(--red);
+	background: var(--grey);
+}
+
+.Bx2 {
+	color: var(--grey);
+	background: black;
+}
+
+.Bx3 {
+	color: var(--grey);
+	background: var(--blue);
+}
+
+.Bx4 {
+	color: var(--grey);
+	background: var(--red);
 }
